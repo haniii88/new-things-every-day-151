@@ -1,5 +1,5 @@
 /* New Things Every Day — Day 151 */
-/* Analyzes project goals and creates a progress repor */
+/* Analyzes project goals and creates a progress report */
 
 function dailyLog151() {
     const goals = [
